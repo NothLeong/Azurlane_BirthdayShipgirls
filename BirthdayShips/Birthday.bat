@@ -1,0 +1,2 @@
+python Birthday.py
+pause
